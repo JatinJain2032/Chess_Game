@@ -1,0 +1,5 @@
+npm i express chess.js socket.io
+npm i ejs
+nodemon app.js
+
+import min.js cdn from chess js cdn 
